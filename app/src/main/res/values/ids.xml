@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editext_name" type="id" />
+    <item name="editext_email" type="id" />
+    <item name="button_save" type="id" />
+</resources>
